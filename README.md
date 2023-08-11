@@ -40,5 +40,5 @@ When the model imports some slicer application, the model may appear abnormal. Y
 
 6. Participate to win your dream prize!
 
-# Updat Info
+# Update Info
 - Optimise the front face model to reduce layer lines (11/08/2023)
