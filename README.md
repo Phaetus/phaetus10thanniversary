@@ -1,3 +1,6 @@
+# Update Info
+- Optimise the front face model to reduce layer lines (11/08/2023)
+
 # Print Recommendations
 - Print settings: Nozzle diameter: 0.4/0.6
 
@@ -39,6 +42,3 @@ When the model imports some slicer application, the model may appear abnormal. Y
 5. The final interpretation right of the event belongs to Phaetus.
 
 6. Participate to win your dream prize!
-
-# Update Info
-- Optimise the front face model to reduce layer lines (11/08/2023)
